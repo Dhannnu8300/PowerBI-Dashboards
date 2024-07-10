@@ -1,0 +1,12 @@
+What is Power BI?
+Power BI is a  of business analytics tools by Microsoft that enables users to visualize and share insights from their data. It allows for the transformation of raw data into meaningful insights through interactive dashboards, reports, and data visualizations. 
+
+
+
+Various Platforms of Power BI:
+Power BI Desktop
+Power BI Service (Power BI Online)
+Power BI Mobile
+Power BI Report Server
+Power BI Embedded
+Power BI Premium
